@@ -3,6 +3,7 @@
 
 - 融合python王者歸來新版與舊版
 - 以舊版為架構，增加新版內容
+- 另外也會增加自己Google的Tips
 - [Python王者歸來](https://www.tenlong.com.tw/products/9789869772600?list_name=srh)
 
 
